@@ -7,7 +7,6 @@ Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstr
    <p align="left">
       <a href="www.linkedin.com/in/kennedy-kariuki-222922286">
       <a href="https://github.com/Kariuki11">
-         ;; <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ---
 
