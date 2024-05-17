@@ -1,8 +1,8 @@
-# 🏄‍♂️ Kariuki Kenn
+# 🏄‍♂️ KARIUKI KENN
 
-**`SoftwareEngineer (Developer/Actor/Creator)`**
+**`SoftwareEngineer ("Code creator, byte enthusiast, Software sorcerer. ✈️")`**
 
-I'm an African full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstrating a natural aptitude for problem-solving and logical thinking from a young age. His aspirations extend into cutting-edge fields such as artificial intelligence, cybersecurity, and machine learning, where he envisions making significant contributions. Kenneth actively participates in coding competitions, thriving in the fast-paced and collaborative environments that challenge him to think creatively and quickly. In addition to competitions, he is an avid reader of tech blogs and research papers, ensuring he stays up-to-date with the latest advancements in the software engineering field. This continuous learning habit equips him with cutting-edge knowledge, which he applies to his academic and personal projects. His focus on artificial intelligence highlights his interest in revolutionizing various sectors and improving everyday life. In cybersecurity, Kenneth is driven by the critical importance of protecting information in an increasingly digital world. His dedication to backend development underscores his appreciation for the foundational aspects of software systems, making him well-positioned as a future leader in the technology industry.
 
    <p align="left">
       <a href="www.linkedin.com/in/kennedy-kariuki-222922286">
@@ -13,10 +13,7 @@ I'm an African full-stack developer building my version of the digital world one
 
 ### 🧰 Languages and Tools
 
-;; <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-;; <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-;; <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
