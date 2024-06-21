@@ -1,0 +1,38 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  push:
+    branches:
+      - main  # Update on push to main branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install curl
+        run: sudo apt-get install -y curl
+
+      - name: Update README with latest stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GH_TOKEN" -o README.md "https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical"
+          curl -H "Authorization: token $GH_TOKEN" -o top-langs.md "https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical"
+          curl -H "Authorization: token $GH_TOKEN" -o activity-graph.md "https://activity-graph.herokuapp.com/graph?username=Kariuki11&theme=redical"
+          cat top-langs.md >> README.md
+          cat activity-graph.md >> README.md
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with latest stats"
+          git push
