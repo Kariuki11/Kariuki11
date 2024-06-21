@@ -26,11 +26,14 @@ Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstr
 <br />
 
 #
+![Kariuki Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical)
 
 
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Kenneth Kariuki</h3></summary>
 Kenneth Kariuki is a dedicated and ambitious student currently pursuing Software Engineering at ALX Africa, demonstrating a strong commitment to making a significant impact in the dynamic and ever-evolving technology landscape. From a young age, Kenneth displayed a natural aptitude for problem-solving and logical thinking, skills that naturally guided him towards a career in software engineering.
 
 Kenneth's aspirations within the software engineering field extend far beyond conventional boundaries. He has a keen interest in cutting-edge areas such as artificial intelligence, cybersecurity, and machine learning. He envisions himself contributing to these advanced fields, driven by a passion for innovation and a desire to address complex technological challenges.
