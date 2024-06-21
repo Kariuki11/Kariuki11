@@ -30,6 +30,9 @@ Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical)
 
+[![Kariuki Kenn's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kariuki11&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!--
 <details>
