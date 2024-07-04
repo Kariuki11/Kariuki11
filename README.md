@@ -34,7 +34,6 @@ Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstr
 
 
 
-<!--
 <details>
  <summary><h3>👨‍💻 Kenneth Kariuki</h3></summary>
 Kenneth Kariuki is a dedicated and ambitious student currently pursuing Software Engineering at ALX Africa, demonstrating a strong commitment to making a significant impact in the dynamic and ever-evolving technology landscape. From a young age, Kenneth displayed a natural aptitude for problem-solving and logical thinking, skills that naturally guided him towards a career in software engineering.
@@ -48,4 +47,3 @@ Beyond competitions, Kenneth is an avid reader of tech blogs and research papers
 Kenneth's ambition is also evident in his specific interests in artificial intelligence, cybersecurity, and backend development. He is particularly fascinated by the potential of artificial intelligence to revolutionize various sectors and improve everyday life. In cybersecurity, he recognizes the critical importance of protecting information in an increasingly digital world and is motivated to develop solutions that enhance data security and privacy. His focus on backend development underscores his appreciation for the foundational aspects of software systems, where robust and efficient backend architectures are crucial for the success of applications.
 
 In summary, Kenneth Kariuki is a promising and industrious student with a clear vision for his future in software engineering. His blend of natural talent, rigorous academic pursuit, and extracurricular involvement positions him as a future leader in the field. With his eyes set on excelling in artificial intelligence, cybersecurity, and backend development, Kenneth is well on his way to making significant contributions to the technology industry, driven by a passion for innovation and excellence.
--->
