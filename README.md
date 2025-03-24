@@ -39,6 +39,11 @@ Kariuki Kenn is a dedicated Software Engineering student at ALX Africa, demonstr
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kariuki11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kariuki11&theme=blueberry)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kariuki11&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kariuki11&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
