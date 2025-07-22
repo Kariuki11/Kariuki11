@@ -1,69 +1,65 @@
-# 🏄‍♂️ KARIUKI KENN
+<h1 align="center">Hi 👋, I'm Kariuki Ken</h1>
+<h3 align="center">Software Engineer | Backend Developer | Lifelong Learner</h3>
 
-**`Software Engineer ("Code creator, byte enthusiast, Software sorcerer. ✈️")`**
-
-I'm a passionate and results-driven software engineer specializing in backend development, with expertise in Django, Node.js, and Express. I've built and maintained scalable APIs, full-stack applications, and platforms delivering robust solutions across industries such as FinTech, fundraising, and EdTech. My focus is on creating data-intensive, modular backend systems that follow clean architecture, are well-tested, and integrate seamlessly with modern frontend frameworks.
-
-On the frontend, I work confidently with React and Next.js to build responsive, user-centric interfaces. I’m also experienced with PostgreSQL, MongoDB, Docker, and Linux-based deployments, and I consistently follow best practices in API design, performance optimization, and developer collaboration. Whether contributing to CRMs, analytics dashboards, or marketplaces, I bring a deep sense of ownership, adaptability, and precision to every project. I'm actively exploring opportunities that will allow me to grow technically, collaborate with impactful teams, and contribute to products that solve real-world problems.
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kariuki11&label=Profile%20views&color=0e75b6&style=flat" alt="Kariuki11" />
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧑‍💻 About Me
 
-<p align="left">
-  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</p>
+I'm a passionate and results-driven software engineer specializing in backend development with **Django**, **Node.js**, and **Express**. I love building robust APIs, full-stack platforms, and data-driven solutions for industries like **FinTech**, **EdTech**, and **fundraising**.
+
+On the frontend, I use **React** and **Next.js** to build clean, responsive UIs. I work well with tools like **PostgreSQL**, **MongoDB**, **Docker**, and Linux-based deployment environments.
+
+---
+
+### 💼 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Kariuki Kenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical" alt="Kariuki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kariuki11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kariuki11&theme=onedark&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
+### 💬 Random Dev Quote
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Kariuki11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-### 📈 Recent Activity
+### 📫 Connect With Me
 
-![Recent Activity](IMAGE_URL)
+- 📍 Nairobi, Kenya
+- 💼 [LinkedIn](https://www.linkedin.com/in/kennedy-kariuki-222922286)
+- 🐦 [Twitter](https://twitter.com/Ken66463Ken)
+- 📸 [Instagram](https://www.instagram.com/kariuki_ken)
 
 ---
 
-### 👨‍💻 About Me
-
-<details>
-  <summary><h3>More About Me</h3></summary>
-  <p>
-    Kenneth Kariuki is a dedicated and ambitious student currently
-::contentReference[oaicite:14]{index=14}
- 
+> 🚀 Dedicated to achieving excellence and making a significant impact. I aspire to be recognized in Africa’s Top 40 Under 40 Awards – Forbes list 2032.
