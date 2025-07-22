@@ -67,9 +67,9 @@ I build scalable web applications, robust APIs, and data-driven platforms across
 ### 📫 Connect With Me
 
 - 📍 Nairobi, Kenya  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kennedy-kariuki-222922286)  
-- 🐦 [Twitter](https://twitter.com/Ken66463Ken)  
-- 📸 [Instagram](https://www.instagram.com/kariuki_ken)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kariuki-kenn/)  
+- 🐦 [Twitter](https://x.com/johnsonkenn11)  
+- 📸 [Daily.dev](https://app.daily.dev/kariukiken)
 
 ---
 
