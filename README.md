@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kariuki Ken</h1>
 <h3 align="center">Software Engineer | Backend Developer | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kariuki11&label=Profile%20views&color=0e75b6&style=flat" alt="Kariuki11" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -21,17 +17,26 @@ On the frontend, I use **React** and **Next.js** to build clean, responsive UIs.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity Stats (Auto-Updated Daily)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical" alt="Kariuki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kariuki11&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📌 Languages Detected by GitHub
+
+> ⚠️ *Note: This shows the most used languages based on your **public repositories**, not necessarily your strongest skills.*
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kariuki11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -55,9 +60,9 @@ On the frontend, I use **React** and **Next.js** to build clean, responsive UIs.
 
 ### 📫 Connect With Me
 
-- 📍 Nairobi, Kenya
-- 💼 [LinkedIn](https://www.linkedin.com/in/kennedy-kariuki-222922286)
-- 🐦 [Twitter](https://twitter.com/Ken66463Ken)
+- 📍 Nairobi, Kenya  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kennedy-kariuki-222922286)  
+- 🐦 [Twitter](https://twitter.com/Ken66463Ken)  
 - 📸 [Instagram](https://www.instagram.com/kariuki_ken)
 
 ---
